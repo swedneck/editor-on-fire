@@ -169,7 +169,7 @@ the note CAN be hammered on.
 The only exception to this (and I have seen these before) is when the note after the
 chord is a forced HO/PO note. Just look at a YouTube video for guitar on In Bloom -
 Nirvana, I can't provide a link right now because I'm at school and they block those
-kinds of sites for some reason…
+kinds of sites for some reasonâ€¦
 Comment 16 by p__...@hotmail.com, Mar 02, 2009 
 That sort of discussion should really be in its own issue. In the meantime, I would
 love to see this committed, I wanna play Bodhisattva with all its crazy custom HO/POs.
